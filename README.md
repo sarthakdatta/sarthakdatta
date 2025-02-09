@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
-<h3 align="center">A beginner programming from California</h3>
+<h3 align="center">A beginner programmer from California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakdatta&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakdatta" /> </p>
 
